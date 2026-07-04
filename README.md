@@ -2,7 +2,9 @@
 
 Privacy Policy, Terms of Use, Support, and Impressum for the [Eardium](https://github.com/plvch/eardium) iOS app, served as a static site via GitHub Pages.
 
-Live at: https://plvch.github.io/eardium-legal/
+Live at: https://eardium.github.io/eardium-legal/
+
+Owned by the `eardium` GitHub organization (not the personal `plvch` account), deliberately kept separate from plvch.com and any other personal-brand domain.
 
 Plain HTML/CSS, no build step. Edit the `.html` files directly and push to `main` — Pages redeploys automatically.
 
